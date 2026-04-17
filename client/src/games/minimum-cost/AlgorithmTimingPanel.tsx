@@ -1,7 +1,7 @@
 import type { AlgoTiming } from './minimumCost.types.ts';
 import { formatMs } from '../../utils/formatTime';
 
-const ACCENT = '#f59e0b';
+const ACCENT = '#eab308';
 
 interface Props {
   timings: AlgoTiming[];

@@ -1,6 +1,6 @@
 import { useState } from 'react';
 
-const ACCENT = '#f59e0b';
+const ACCENT = '#eab308';
 
 interface Props {
   onConfirm: (name: string) => void;

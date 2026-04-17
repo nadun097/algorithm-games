@@ -1,4 +1,4 @@
-const ACCENT = '#f59e0b';
+const ACCENT = '#eab308';
 
 interface Props {
   choices: [number, number, number];

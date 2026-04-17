@@ -7,7 +7,7 @@ import AnswerChoices from './AnswerChoices.tsx';
 import AlgorithmTimingPanel from './AlgorithmTimingPanel.tsx';
 import GameResult from './GameResult.tsx';
 
-const ACCENT = '#f59e0b';
+const ACCENT = '#eab308';
 
 export default function MinimumCostPage() {
   const [playerName, setPlayerName] = useState('');
