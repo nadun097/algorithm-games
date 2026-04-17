@@ -4,11 +4,11 @@ import { fetchNewRound, submitAnswer } from './knightsTour.api';
 import PlayerNameInput from './PlayerNameInput';
 import ChessBoard from './ChessBoard';
 import BoardSizeSelector from './BoardSizeSelector';
-import MoveControls from './MoveControls';
+import MoveControls from './MoveControls';   
 import AlgorithmTimingPanel from './AlgorithmTimingPanel';
 import GameResult from './GameResult';
 
-const ACCENT = '#a855f7';
+const ACCENT = '#a855f7';                                                      
 const KNIGHT_MOVES = [[-2,-1],[-2,1],[-1,-2],[-1,2],[1,-2],[1,2],[2,-1],[2,1]];
 
 export default function KnightsTourPage() {
