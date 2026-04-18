@@ -1,7 +1,7 @@
 import { formatMs } from '../../utils/formatTime';
 import type { AlgoTiming } from './minimumCost.types.ts';
 
-const ACCENT = '#f59e0b';
+const ACCENT = '#eab308';
 
 interface Props {
   outcome: 'win' | 'lose';
